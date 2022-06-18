@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: slime.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: 90cbffff84cbffff7ccbffff74cbffff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: b5d6fea14cabc774684a25669dd0f602, type: 2}
+  - {fileID: 11400000, guid: 2847399e6923a2546936e98d3a429746, type: 2}
+  - {fileID: 11400000, guid: d072b5d1a51a392448b440ee3c80f9ac, type: 2}
+  - {fileID: 11400000, guid: af8bedf6079b63c43a635c17383cf4e7, type: 2}

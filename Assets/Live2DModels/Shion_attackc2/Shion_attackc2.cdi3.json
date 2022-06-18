@@ -1,0 +1,40 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "本体"
+		},
+		{
+			"Id": "ParamAnglerooc",
+			"GroupId": "",
+			"Name": "岩"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "地面"
+		},
+		{
+			"Id": "ParamEyeLE",
+			"GroupId": "",
+			"Name": "雷"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "フォルダー 11"
+		},
+		{
+			"Id": "Part2",
+			"Name": "雷"
+		},
+		{
+			"Id": "Part3",
+			"Name": "線"
+		}
+	]
+}

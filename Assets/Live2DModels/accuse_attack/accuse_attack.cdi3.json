@@ -1,0 +1,36 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Paramgate",
+			"GroupId": "",
+			"Name": "ゲート"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "Paramsmoke",
+			"GroupId": "",
+			"Name": "煙"
+		},
+		{
+			"Id": "Parammove",
+			"GroupId": "",
+			"Name": "発光移動"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "A",
+			"Name": "A"
+		},
+		{
+			"Id": "Part",
+			"Name": "トゲ"
+		}
+	]
+}

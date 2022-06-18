@@ -1,0 +1,324 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 1.333,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 27,
+		"TotalSegmentCount": 28,
+		"TotalPointCount": 59,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "Paramr",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Paraman",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_BREATH",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.222,
+				0,
+				0.444,
+				1,
+				0.667,
+				1,
+				1,
+				0.889,
+				1,
+				1.111,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_HIRAHIRA",
+			"Segments": [
+				0,
+				-8,
+				0,
+				1.333,
+				-8
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_rotation",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_UP",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamLR",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamUD",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Parammen",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Paramnenmove",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Parammagic",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamhandM",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamML",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMUD",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_black",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_back",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParambeamB",
+			"Segments": [
+				0,
+				-30,
+				0,
+				1.333,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParambeamLR",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParambeamUD",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Paramtennmetu",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Paramlooploop",
+			"Segments": [
+				0,
+				-30,
+				0,
+				1.333,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Paramloop",
+			"Segments": [
+				0,
+				-30,
+				0,
+				1.333,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Paramloopmove",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamloopUD",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamRED",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Paramall",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamLRall",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.333,
+				0
+			]
+		}
+	]
+}

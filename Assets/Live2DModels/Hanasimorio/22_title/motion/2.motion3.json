@@ -1,0 +1,247 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 2.333,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 20,
+		"TotalSegmentCount": 21,
+		"TotalPointCount": 45,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "Param_logo_move",
+			"Segments": [
+				0,
+				0,
+				0,
+				2.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Paramlogo_zoom",
+			"Segments": [
+				0,
+				-15,
+				0,
+				2.333,
+				-15
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_logo_E",
+			"Segments": [
+				0,
+				30,
+				0,
+				2.333,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_click_E",
+			"Segments": [
+				0,
+				30,
+				0,
+				2.333,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_click",
+			"Segments": [
+				0,
+				-15,
+				1,
+				0.389,
+				-15,
+				0.778,
+				15,
+				1.167,
+				15,
+				1,
+				1.556,
+				15,
+				1.944,
+				-15,
+				2.333,
+				-15
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleX",
+			"Segments": [
+				0,
+				0,
+				0,
+				2.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleY",
+			"Segments": [
+				0,
+				-5,
+				0,
+				2.333,
+				-5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleZ",
+			"Segments": [
+				0,
+				-0.083,
+				0,
+				2.333,
+				-0.083
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamCheek",
+			"Segments": [
+				0,
+				1,
+				0,
+				2.333,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleX",
+			"Segments": [
+				0,
+				-10,
+				0,
+				2.333,
+				-10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleY",
+			"Segments": [
+				0,
+				0,
+				0,
+				2.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleZ",
+			"Segments": [
+				0,
+				0,
+				0,
+				2.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBreath",
+			"Segments": [
+				0,
+				0,
+				0,
+				2.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamHairFront",
+			"Segments": [
+				0,
+				0,
+				0,
+				2.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamHairSide",
+			"Segments": [
+				0,
+				0,
+				0,
+				2.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamHairBack",
+			"Segments": [
+				0,
+				-0.8,
+				0,
+				2.333,
+				-0.8
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_white",
+			"Segments": [
+				0,
+				0,
+				0,
+				2.333,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_BLACK",
+			"Segments": [
+				0,
+				3,
+				0,
+				2.333,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_K",
+			"Segments": [
+				0,
+				0,
+				0,
+				2.333,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamK",
+			"Segments": [
+				0,
+				1,
+				0,
+				2.333,
+				1
+			]
+		}
+	]
+}

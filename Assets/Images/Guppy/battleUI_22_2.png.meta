@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 2dd95682da7f00a4cafa5d105eeb06bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5141136897320998463
+    second: battleUI_22_2_0
+  - first:
+      213: -7556097178797297010
+    second: battleUI_22_2_1
+  - first:
+      213: 6643993035918759471
+    second: battleUI_22_2_2
+  - first:
+      213: 3773823557063878836
+    second: battleUI_22_2_3
+  - first:
+      213: -3865025641449461228
+    second: battleUI_22_2_4
+  - first:
+      213: -6435202513724648087
+    second: battleUI_22_2_5
+  - first:
+      213: 305341820355790227
+    second: battleUI_22_2_6
+  - first:
+      213: -6974706431549805173
+    second: battleUI_22_2_7
+  - first:
+      213: -4015105381211215856
+    second: battleUI_22_2_8
+  - first:
+      213: -1940111729297099333
+    second: battleUI_22_2_9
+  - first:
+      213: -7316117977040911751
+    second: battleUI_22_2_10
+  - first:
+      213: -2351852047687504134
+    second: battleUI_22_2_11
+  - first:
+      213: -6765101868839356047
+    second: battleUI_22_2_12
+  - first:
+      213: 7406789789289647286
+    second: battleUI_22_2_13
+  - first:
+      213: -822315610730519957
+    second: battleUI_22_2_14
+  - first:
+      213: -3014726373263502209
+    second: battleUI_22_2_15
+  - first:
+      213: 3565733992720745714
+    second: battleUI_22_2_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battleUI_22_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1582
+        width: 3200
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c927851b3307a8b0800000000000000
+      internalID: -5141136897320998463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_1
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1023
+        width: 747
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82b47956a9532790800000000000000
+      internalID: -7556097178797297010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_2
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1023
+        width: 749
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f265b1cf674343c50800000000000000
+      internalID: 6643993035918759471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_3
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 1023
+        width: 749
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b82bc3d7805f5430800000000000000
+      internalID: 3773823557063878836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 955
+        width: 304
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ae0a928abac5ac0800000000000000
+      internalID: -3865025641449461228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1131
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ddbfa86191b6a0800000000000000
+      internalID: -6435202513724648087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_6
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 970
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395c06194cacc3400800000000000000
+      internalID: 305341820355790227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 324
+        height: 890
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d67de347dd43f90800000000000000
+      internalID: -6974706431549805173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 626
+        width: 235
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186521cdea7748c0800000000000000
+      internalID: -4015105381211215856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_9
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 604
+        width: 306
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57dae49a65315e0800000000000000
+      internalID: -1940111729297099333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_10
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 626
+        width: 292
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97280ab567de77a90800000000000000
+      internalID: -7316117977040911751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_11
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 713
+        width: 1344
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeaf45f50b8c5fd0800000000000000
+      internalID: -2351852047687504134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_12
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 598
+        width: 363
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179bf7e71b78d12a0800000000000000
+      internalID: -6765101868839356047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_14
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 553
+        width: 1731
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6226211f4c8694f0800000000000000
+      internalID: -822315610730519957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_15
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 475
+        width: 2665
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7490a2165a8926d0800000000000000
+      internalID: -3014726373263502209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battleUI_22_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 3200
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4c7af9c280c7130800000000000000
+      internalID: 3565733992720745714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

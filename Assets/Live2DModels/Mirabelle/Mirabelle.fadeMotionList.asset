@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: Mirabelle.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: f01affffd81affffdc1affffe81affff40e3ffff38e3ffff48ceffff40ceffff38ceffff30cefffff81afffff41affffe41affff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: 82c4e46094de5874fa36146579487dfc, type: 2}
+  - {fileID: 11400000, guid: d6cd4378de990204995824cff4b4fea5, type: 2}
+  - {fileID: 11400000, guid: 8a17984145e77ea4facffafc8ff9574e, type: 2}
+  - {fileID: 11400000, guid: 5bf19f32b336bdc45b869361d1715321, type: 2}
+  - {fileID: 11400000, guid: 5ca243d7b8d600c4595dfc5e470df196, type: 2}
+  - {fileID: 11400000, guid: ecec447f02756ed41ba2652923058e43, type: 2}
+  - {fileID: 11400000, guid: 1a1c4ac5fd20aa94985f63687deb066d, type: 2}
+  - {fileID: 11400000, guid: 2d9eeb678be4fae4d80839021cccca4f, type: 2}
+  - {fileID: 11400000, guid: 8f259e166b926ea4c9a2c04cbc2eb9d0, type: 2}
+  - {fileID: 11400000, guid: 87b1991f0859d644f89a1fd8d36e10c2, type: 2}
+  - {fileID: 11400000, guid: 4b5cd4bff11179847a8c63dcc6bc08c9, type: 2}
+  - {fileID: 11400000, guid: 169803ea3aeaf824ca428611abe0b8d9, type: 2}
+  - {fileID: 11400000, guid: 8edca2d34723b944c8b4d649390a7f50, type: 2}

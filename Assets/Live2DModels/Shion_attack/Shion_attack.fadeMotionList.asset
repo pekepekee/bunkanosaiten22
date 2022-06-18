@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: Shion_attack.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: 7ac1ffffd8bfffff9c40ffffc0e1feff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: 5352db3d3541b61409b35906d47b335b, type: 2}
+  - {fileID: 11400000, guid: bde943e0bdcf88d4fa7bc59fbf0089db, type: 2}
+  - {fileID: 11400000, guid: 7ebd07e1ebfb28e42b1e566b97cdaa2b, type: 2}
+  - {fileID: 11400000, guid: 19cd8f5fd81a9a9459ec2d63ad7dc736, type: 2}

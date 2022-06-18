@@ -1,0 +1,134 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param_logo_move",
+			"GroupId": "ParamGroup",
+			"Name": "移動"
+		},
+		{
+			"Id": "Paramlogo_zoom",
+			"GroupId": "ParamGroup",
+			"Name": "ロゴ拡大"
+		},
+		{
+			"Id": "Param_logo_E",
+			"GroupId": "ParamGroup",
+			"Name": "ロゴ表示"
+		},
+		{
+			"Id": "Param_click_E",
+			"GroupId": "ParamGroup",
+			"Name": "クリック表示"
+		},
+		{
+			"Id": "Param_click",
+			"GroupId": "ParamGroup",
+			"Name": "クリック"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "人間表示"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "表示"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "Param_white",
+			"GroupId": "",
+			"Name": "ホワイトアウト"
+		},
+		{
+			"Id": "Param_BLACK",
+			"GroupId": "",
+			"Name": "ブラック"
+		},
+		{
+			"Id": "Param_K",
+			"GroupId": "",
+			"Name": "きらきら"
+		},
+		{
+			"Id": "ParamK",
+			"GroupId": "",
+			"Name": "きらきら表示"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "ロゴ"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part5",
+			"Name": "2204101.png"
+		},
+		{
+			"Id": "Part4",
+			"Name": "白塗り.png"
+		},
+		{
+			"Id": "Part3",
+			"Name": "黒塗り.png"
+		},
+		{
+			"Id": "Part",
+			"Name": "ミラベル"
+		},
+		{
+			"Id": "Part2",
+			"Name": "エフェクト"
+		}
+	]
+}

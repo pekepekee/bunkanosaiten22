@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Mirabelle.moc3",
+		"Textures": [
+			"Mirabelle.8192/texture_00.png"
+		],
+		"Physics": "Mirabelle.physics3.json",
+		"DisplayInfo": "Mirabelle.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

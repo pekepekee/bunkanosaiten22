@@ -1,0 +1,3492 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 0.07,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 316,
+		"TotalSegmentCount": 316,
+		"TotalPointCount": 632,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Model",
+			"Id": "Opacity",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param47",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParambackX",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParambackY",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamDe",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param48",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param50",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param22",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param20",
+			"Segments": [
+				0,
+				30,
+				2,
+				0.067,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param21",
+			"Segments": [
+				0,
+				-30,
+				2,
+				0.067,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param34",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param37",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param29",
+			"Segments": [
+				0,
+				-30,
+				2,
+				0.067,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param30",
+			"Segments": [
+				0,
+				-30,
+				2,
+				0.067,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param31",
+			"Segments": [
+				0,
+				-30,
+				2,
+				0.067,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param32",
+			"Segments": [
+				0,
+				-30,
+				2,
+				0.067,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param33",
+			"Segments": [
+				0,
+				30,
+				2,
+				0.067,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param13",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param14",
+			"Segments": [
+				0,
+				30,
+				2,
+				0.067,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param15",
+			"Segments": [
+				0,
+				30,
+				2,
+				0.067,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param23",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param35",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param24",
+			"Segments": [
+				0,
+				30,
+				2,
+				0.067,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param25",
+			"Segments": [
+				0,
+				30,
+				2,
+				0.067,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param26",
+			"Segments": [
+				0,
+				30,
+				2,
+				0.067,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param27",
+			"Segments": [
+				0,
+				30,
+				2,
+				0.067,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param28",
+			"Segments": [
+				0,
+				30,
+				2,
+				0.067,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param39",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param2",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param45",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param40",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param5",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param9",
+			"Segments": [
+				0,
+				15,
+				2,
+				0.067,
+				15
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param7",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param8",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param10",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param6",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param16",
+			"Segments": [
+				0,
+				15,
+				2,
+				0.067,
+				15
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param17",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param18",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param19",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleX",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleY",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleZ",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param3",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param4",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeLOpen",
+			"Segments": [
+				0,
+				1,
+				2,
+				0.067,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeLSmile",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeROpen",
+			"Segments": [
+				0,
+				1,
+				2,
+				0.067,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeRSmile",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeBallX",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeBallY",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowLY",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowLAngle",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowLForm",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowRY",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowRAngle",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowRForm",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowLX",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBrowRX",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamUP",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMouthForm",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMouthOpenY",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param36",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamCheek",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleX",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleY",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleZ",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param43",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param42",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param41",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param11",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param12",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamHairFront",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param38",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamHairSide",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamHairBack",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Parambiggate",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param54",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamF",
+			"Segments": [
+				0,
+				0.5,
+				2,
+				0.067,
+				0.5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh292",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh292",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh292",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh292",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh292",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh292",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh292",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh293",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh293",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh293",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh293",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh293",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh293",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh293",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh167",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh167",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh167",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh167",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh167",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh167",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh167",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh168",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh168",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh168",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh168",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh168",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh168",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh168",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh169",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh169",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh169",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh169",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh169",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh169",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh169",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh171",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh171",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh171",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh171",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh171",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh171",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh171",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh172",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh172",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh172",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh172",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh172",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh172",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh172",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_8_ArtMesh172",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_9_ArtMesh172",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh173",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh173",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh173",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh173",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh173",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh173",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh173",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_8_ArtMesh173",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_9_ArtMesh173",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh174",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh174",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh174",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh174",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh174",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh174",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh174",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh175",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh175",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh175",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh175",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh175",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh175",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh175",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh177",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh177",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh177",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh177",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh177",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh177",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh177",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_8_ArtMesh177",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_9_ArtMesh177",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh166",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh166",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh166",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh166",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh166",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh165",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh165",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh165",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh165",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh165",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh66",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh66",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh66",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh66",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh66",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh66",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh66",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh65",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh65",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh65",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh65",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh65",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh65",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh65",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh68",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh68",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh68",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh68",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh68",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh67",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh67",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh67",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh67",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh67",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh64",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh64",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh64",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh64",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh64",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh64",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh64",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_8_ArtMesh64",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_9_ArtMesh64",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_1_ArtMesh69",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_2_ArtMesh69",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_3_ArtMesh69",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_4_ArtMesh69",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_5_ArtMesh69",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_6_ArtMesh69",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_7_ArtMesh69",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_8_ArtMesh69",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Param_Angle_Rotation_9_ArtMesh69",
+			"Segments": [
+				0,
+				0,
+				2,
+				0.067,
+				0
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part82",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part81",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part79",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part80",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part57",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part56",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part49",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part50",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part51",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part52",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part53",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part9",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part3",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part4",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part5",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part11",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part12",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part13",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part15",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part16",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part14",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part17",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part18",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh64_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part77",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh65_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part74",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh66_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part73",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh67_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part76",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh68_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part75",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh69_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part78",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part19",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part20",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part21",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part22",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part23",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part24",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part25",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part26",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part27",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part28",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part29",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part30",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part32",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part54",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part55",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part58",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part33",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part47",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part6",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part44",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part7",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part45",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part46",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part8",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part59",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part34",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part31",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part35",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part36",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part37",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part38",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part39",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part40",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part41",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part48",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part42",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part43",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh165_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh166_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh293_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part61",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh292_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part60",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part72",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part71",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh167_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part68",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh168_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part62",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh169_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part64",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh171_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part63",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh172_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part66",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh173_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part67",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh174_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part69",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh175_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part70",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "ArtMesh177_Skinning",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "Part65",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		},
+		{
+			"Target": "PartOpacity",
+			"Id": "PartSketch0",
+			"Segments": [
+				0,
+				1,
+				0,
+				0.07,
+				1
+			]
+		}
+	]
+}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: Shion.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: c6d1feffbad1feffb2d1feffaad1feffa2d1feff9ad1feff92d1feff8ad1feff82d1feff7ad1fefffabefefff2befeffeabefeffe2befeffdabefeffd2befeff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: b1afc9149ea5ed84ca3208c76ca01ff6, type: 2}
+  - {fileID: 11400000, guid: 84d538ab5e137ef449e5088a55398ebb, type: 2}
+  - {fileID: 11400000, guid: d2fc2539b539e5548a2be0aff24d238a, type: 2}
+  - {fileID: 11400000, guid: 0ff939653579646468e6e1b3209ad1a9, type: 2}
+  - {fileID: 11400000, guid: 6777c9d2a635cde4d8f1347537dabce9, type: 2}
+  - {fileID: 11400000, guid: 8926cd55682b94e4e99313dae6a619c9, type: 2}
+  - {fileID: 11400000, guid: 6071c72d53d58154b8fab73dd64a0690, type: 2}
+  - {fileID: 11400000, guid: b497665818e770c4fb753feb32b27d3d, type: 2}
+  - {fileID: 11400000, guid: e53a7c99c4e8108418f664195d3914c9, type: 2}
+  - {fileID: 11400000, guid: 625d9480e4d7c30448060295ccefd05a, type: 2}
+  - {fileID: 11400000, guid: 5964ec82f792ce44bbfda7513b6e6cdd, type: 2}
+  - {fileID: 11400000, guid: 04a873eb053db8446b6d85a74876f1a2, type: 2}
+  - {fileID: 11400000, guid: 026eb2610f7ecff498cec609be8c13b1, type: 2}
+  - {fileID: 11400000, guid: 759c3de830bad9b49a11ad1dc073a737, type: 2}
+  - {fileID: 11400000, guid: fd9c2b9ffffc7a143bb65822d8d2c372, type: 2}
+  - {fileID: 11400000, guid: 8845dba33a4a8fd4a9d41a5cd372e813, type: 2}

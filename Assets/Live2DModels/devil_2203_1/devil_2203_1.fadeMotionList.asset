@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: devil_2203_1.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: 1aefffff12efffff0aefffff02effffffaeeffff001affffeaeeffffe2eeffffdaeeffffd2eeffffcaeeffffc2eeffff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: 551e6860d75cc224988f8338d19a6d2b, type: 2}
+  - {fileID: 11400000, guid: 7a7beddf473d37a47a9bbef974f78c7e, type: 2}
+  - {fileID: 11400000, guid: 96a799c30adb430429b09db6a0d25464, type: 2}
+  - {fileID: 11400000, guid: 0a6c934d179313f439ba42c4f0aaccc4, type: 2}
+  - {fileID: 11400000, guid: f369705d5ab820642b7c1a4c8ed16438, type: 2}
+  - {fileID: 11400000, guid: ec51c721dc2986a48b35524d8e3b5ad9, type: 2}
+  - {fileID: 11400000, guid: 7a054e38f8ac2b040a6ff8ddff9d264a, type: 2}
+  - {fileID: 11400000, guid: b25d24cc83929be4192432eb10e54d5e, type: 2}
+  - {fileID: 11400000, guid: 1aa06775e042e374d8f3d60912a950df, type: 2}
+  - {fileID: 11400000, guid: 5b4aa6002b4f65346832581dccc3313a, type: 2}
+  - {fileID: 11400000, guid: f6c5ba56411afc64da2af4eba7e4bfbb, type: 2}
+  - {fileID: 11400000, guid: ecfdbaccdccce9b4e8f673aab559ce14, type: 2}
